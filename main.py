@@ -1,5 +1,5 @@
 city = "chicago"
-print("the city where you live in is", city) #la newline di printf è inclusa nell'output che fornisce
+print("the city where you live in is", city) #la newline di print è inclusa nell'output che fornisce
 
 
 #variabili
