@@ -381,7 +381,7 @@ print(to_count)
 o_range_count = string.count("o",2,12)
 print(o_range_count)
 
-#controllare se una stringa termina con un'altra stringa, ritrona true o false
+#controllare se una stringa termina con un'altra stringa, restituisce true o false
 
 string = "Carol Shaw"
 
